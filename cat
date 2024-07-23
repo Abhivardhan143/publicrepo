@@ -1,1 +1,2 @@
-# cat command is used to read the content of a filee
+# cat command is used to read the content of a file.
+cat file.txt
